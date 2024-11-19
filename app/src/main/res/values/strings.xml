@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">rachabar</string>
+    <string name="sair_da_conta">Sair da conta</string>
+    <string name="registros">Registros</string>
+    <string name="salvar_conta_atual">Salvar conta atual</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="quantidade_de_amigos">Quantidade de Amigos</string>
+    <string name="valor_total">Valor Total</string>
+    <string name="calcular">Calcular</string>
+</resources>
